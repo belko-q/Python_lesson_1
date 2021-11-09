@@ -14,3 +14,4 @@ if second_now > 0 and second_now <= 86400:
     print(f'{hours} {minutes} {seconds}')
 else:
     print('Введено неверное значение.')
+
